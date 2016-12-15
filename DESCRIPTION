@@ -1,7 +1,7 @@
 Package: puTemplate
 Title: Template para Power Ups de Cursos R
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Authors@R: person("Julio", "Trecenti", email = "jtrecenti@jtrecenti.com", role = c("aut", "cre"))
 Description: Cria templates para os Power Ups dados em cursos de R.
 Depends:
     R (>= 3.3.1)
