@@ -5,7 +5,7 @@
 Template para power-ups
 
 ```
-devtools::install_github('puTemplate')
+devtools::install_github('curso-r/puTemplate')
 dir.create('puTest') # ou clone um repo do github.
 
 puTemplate::pu_setup('puTest')
