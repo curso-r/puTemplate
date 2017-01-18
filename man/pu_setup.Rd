@@ -4,14 +4,14 @@
 \alias{pu_setup}
 \title{setup power up}
 \usage{
-pu_setup(path = ".", rstudio = TRUE)
+pu_setup(name, dir = ".")
 }
 \arguments{
-\item{path}{pasta para criar o power-up. A última parte é o nome do power-up. Recomenda-se fazer na forma puXXX, em camelCode.}
+\item{name}{nome do PU, que será transformado em pu."name".}
 
-\item{rstudio}{criar arquivo .Rproj?}
+\item{dir}{pasta para criar o power-up. A última parte é o nome do PU. Recomenda-se fazer na forma pu.XXX, em camelCode.}
 }
 \description{
-Cria o esqueleto para um power-up em uma pasta
+Cria o esqueleto para um power-up em uma pasta.
 }
 
