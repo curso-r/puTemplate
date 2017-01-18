@@ -1,4 +1,6 @@
-# Nome do power-up
+[![Travis-CI Build Status](https://travis-ci.org/curso-r/`r name`.svg?branch=master)](https://travis-ci.org/curso-r/`r name`)
+
+# `r name`
 
 ## Descrição
 
