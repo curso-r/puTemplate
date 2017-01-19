@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: person("Julio", "Trecenti", email = "jtrecenti@jtrecenti.com", role = c("aut", "cre"))
 Description: Cria templates para os Power Ups dados em cursos de R.
 Depends:
-    R (>= 3.3.1)
+    R (>= 3.2.1)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
